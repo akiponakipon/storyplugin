@@ -2,5 +2,5 @@ name: StoryPlugin
 main: com.example.storyplugin.StoryPlugin
 version: 1.0
 api-version: 1.21
-author: oiwaraeru
-description: "Minecraft ストーリー演出用プラグイン"
+author: ストーリープラグインを作った人☆
+description: Minecraft のストーリー＋進捗を追加するプラグイン
